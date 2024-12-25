@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "952597084385",
+    "firebase_url": "https://mannhit-c25e6-default-rtdb.firebaseio.com",
+    "project_id": "mannhit-c25e6",
+    "storage_bucket": "mannhit-c25e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952597084385:android:90203dd9c82237b78b5fa0",
+        "android_client_info": {
+          "package_name": "com.mannhit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh0II9KAiFjpNYQ4RwRWxND0DE1Fdbzvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
